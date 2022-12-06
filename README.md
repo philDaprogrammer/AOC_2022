@@ -1,6 +1,6 @@
-# AOC_2022
+# Adevent of code 2022
 
-all solutions for advent of code 2022
+All solutions for advent of code 2022,
 written in rust. 
 
 link to the website for this years problems: 
